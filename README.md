@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
 <h3 align="center">A tech enthusiast exploring Data Science, Python, and the MERN Stack</h3>
 
-<h3 align="center">About Me:</h3>
+
 <p align="center">
 I am passionate about leveraging <b>Data Science</b> to uncover meaningful insights and create impactful solutions.  
 With a strong foundation in <b>Python</b>, I continually experiment with innovative approaches to problem-solving.  
