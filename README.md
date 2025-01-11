@@ -34,31 +34,34 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100" height="100"/>
   </a>
-  &nbsp; &nbsp;
-  &nbsp; &nbsp;
-  &nbsp; &nbsp;
-  &nbsp; &nbsp;
+  &nbsp; &nbsp;  &nbsp; &nbsp; 
+  
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="100" height="100"/> 
+  </a>
+  &nbsp; &nbsp;  &nbsp; &nbsp;
+  
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="100" height="100"/> 
+  </a> 
+  &nbsp; &nbsp;  &nbsp; &nbsp;
+  
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="100" height="100"/>
   </a>
-  &nbsp; &nbsp;
-  &nbsp; &nbsp;
-  &nbsp; &nbsp;
-  &nbsp; &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="100" height="100"/>
-  </a>
-  &nbsp; &nbsp;
-  &nbsp; &nbsp;
-  &nbsp; &nbsp;
-  &nbsp; &nbsp;
+  &nbsp; &nbsp;  &nbsp; &nbsp; 
+  
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="100" height="100"/> 
+</a> 
+  &nbsp; &nbsp;  &nbsp; 
+  
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="100" height="100"/>
   </a>
   &nbsp; &nbsp;
   &nbsp; &nbsp;
-  &nbsp; &nbsp;
-  &nbsp; &nbsp;
+
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/> 
   </a> 
@@ -69,10 +72,6 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="100" height="100"/>
   </a>
-  &nbsp; &nbsp;
-  &nbsp; &nbsp;
-  &nbsp; &nbsp;
-  &nbsp; &nbsp;
   <a href="https://auth.geeksforgeeks.org/user/your-profile" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="100" height="100"/>
   </a>
