@@ -60,11 +60,16 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="100" height="100"/>
   </a>
   &nbsp; &nbsp;
-  &nbsp; &nbsp;
 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/> 
   </a> 
+  &nbsp; &nbsp;
+
+  <a href="https://zapier.com" target="_blank" rel="noreferrer">
+	  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="100" height="100"/>
+  </a>
+
 </p>
 
 <h3 align="left">My Profiles.......</h3>
