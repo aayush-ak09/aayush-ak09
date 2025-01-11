@@ -11,56 +11,49 @@ I am also developing my skills in the **MERN Stack**, working on modern web appl
 ---
 
 <h3 align="left">✨ Featured Projects:</h3>
-- **BRION - AI Assistant**  
+- BRION - AI Assistant 
   A cutting-edge voice-controlled AI Assistant developed using the OpenAI API for ChatGPT.  
   It offers system access, enabling control over the mouse, keyboard, and other commands via voice.  
 
-- **Data Analysis Portfolio**  
-  A collection of projects demonstrating my skills in **data visualization**, **model building**, and **insights generation**.  
+- Data Analysis Portfolio  
+  A collection of projects demonstrating my skills in <b>data visualization and insights generation</b>.  
 
-- **Laser Railway Track Security System**  
+- Laser Railway Track Security System  
   A science exhibition project aimed at improving railway safety using advanced laser detection mechanisms.  
 
-- **Object Detection via Drone**  
+- Object Detection via Drone
   Leveraged OpenCV to create a drone-based object detection solution.  
 
-- **Agricultural Production Optimization Engine**  
+- Agricultural Production Optimization Engine  
   Developed to provide optimized solutions for enhancing agricultural productivity.
 
 ---
 
-<h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aayush" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" />
-</a>
-<a href="https://github.com/your-github-username" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" width="40" />
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100" height="100"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="100" height="100"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="100" height="100"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="100" height="100"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/> 
+  </a> 
 </p>
 
----
-
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left"> 
-<!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<h3 align="left">My Profiles.......</h3>
+<p>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="100" height="100"/>
   </a>
-<!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-<!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a>
-<!-- Open CV -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a>
-<!-- Node js-->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <a href="https://auth.geeksforgeeks.org/user/your-profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="100" height="100"/>
   </a>
 </p>
