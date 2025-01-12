@@ -90,13 +90,13 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
 <h3 align="left">My Profiles.......</h3>
 <table>
 	<tr>
-		<td>
+		<td align="center" width="140">
 			  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     			  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="100" height="100"/>
   			  <br/><b> Linked in<b></b>
   			  </a>
                 </td>
-			  <td>
+			  <td align="Center" width="140">
 				  <a href="https://auth.geeksforgeeks.org/user/your-profile" target="_blank">
 					  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="100" height="100"/>
 					  <br/> <b> Linked In </b>
