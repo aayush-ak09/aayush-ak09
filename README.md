@@ -99,28 +99,28 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
     <!-- Kommunicate -->
     <td align="center" width="140">
       <a href="https://www.kommunicate.io/" target="_blank">
-        <img src="https://github.com/KaitouDev/github-assets/blob/main/logos/kommunicate-logo.png?raw=true" width="70" height="70" alt="Kommunicate Logo"/>
+        <img src="./images/kommunicate_logo.jpeg" width="70" height="70" alt="Kommunicate Logo"/>
         <br/><b>Kommunicate</b>
       </a>
     </td>
     <!-- Copilot Studio -->
     <td align="center" width="140">
       <a href="https://visualstudio.microsoft.com/services/copilot/" target="_blank">
-        <img src="https://raw.githubusercontent.com/github/brand-guide/main/Brand-Guidelines/logo/codex-studio-dark.png" width="70" height="70" alt="Copilot Studio"/>
+        <img src="./images/copilotStudio.jpeg" width="70" height="70" alt="Copilot Studio"/>
         <br/><b>Copilot Studio</b>
       </a>
     </td>
     <!-- Power Automate -->
     <td align="center" width="140">
       <a href="https://powerautomate.microsoft.com/" target="_blank">
-        <img src="https://www.google.com/imgres?q=power%20automate%20logo&imgurl=https%3A%2F%2Fwww.cloud9insight.com%2Fwp-content%2Fuploads%2F2021%2F05%2FGroup-1728.png.webp&imgrefurl=https%3A%2F%2Fwww.cloud9insight.com%2Fmicrosoft-power-platform-and-apps%2F&docid=hhTjk8Ok48RE5M&tbnid=XownmkTAOqAGdM&vet=12ahUKEwjTsvP33u-KAxV_ZSoJHQV5H_YQM3oECF0QAA..i&w=630&h=630&hcb=2&ved=2ahUKEwjTsvP33u-KAxV_ZSoJHQV5H_YQM3oECF0QAA" width="70" height="70" alt="Power Automate Logo"/>
+        <img src="./images/download.jpeg" width="70" height="70" alt="Power Automate Logo"/>
         <br/><b>Power Automate</b>
       </a>
     </td>
     <!-- Power Apps -->
     <td align="center" width="140">
       <a href="https://powerapps.microsoft.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/microsoft/PowerPlatformIcons/main/PowerApps.svg" width="70" height="70" alt="Power Apps Logo"/>
+        <img src="images/powerApps.jpeg" width="70" height="70" alt="Power Apps Logo"/>
         <br/><b>Power Apps</b>
       </a>
     </td>
