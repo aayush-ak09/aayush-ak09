@@ -30,54 +30,77 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100" height="100"/>
-  </a>
-  &nbsp; &nbsp;  &nbsp; &nbsp; 
-  
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="100" height="100"/> 
-  </a>
-  &nbsp; &nbsp;  &nbsp; &nbsp;
-  
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="100" height="100"/> 
-  </a> 
-  &nbsp; &nbsp;  &nbsp; &nbsp;
-  
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="100" height="100"/>
-  </a>
-  &nbsp; &nbsp;  &nbsp; &nbsp; 
-  
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="100" height="100"/> 
-</a> 
-  &nbsp; &nbsp;  &nbsp; 
-  
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="100" height="100"/>
-  </a>
-  &nbsp; &nbsp;
+<!-- ### Languages and Tools: -->
 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/> 
-  </a> 
-  &nbsp; &nbsp;
-
-  <a href="https://zapier.com" target="_blank" rel="noreferrer">
-	  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="100" height="100"/>
-  </a>
-
-</p>
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70" alt="Python"/>
+        <br/><b>Python</b>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://opencv.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="70" height="70" alt="OpenCV"/>
+        <br/><b>OpenCV</b>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://seaborn.pydata.org/" target="_blank">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="70" height="70" alt="Seaborn"/>
+        <br/><b>Seaborn</b>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://nodejs.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" alt="Node.js"/>
+        <br/><b>Node.js</b>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.oracle.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="70" height="70" alt="Oracle"/>
+        <br/><b>Oracle</b>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.arduino.cc/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="70" height="70" alt="Arduino"/>
+        <br/><b>Arduino</b>
+      </a>
+    </td>
+     <td align="center" width="140">
+      <a href="https://www.w3schools.com/cs/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="70" height="70" alt="C#"/>
+        <br/><b>CSharp</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://zapier.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="70" height="70" alt="Zapier"/>
+        <br/><b>Zapier</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">My Profiles.......</h3>
-<p>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="100" height="100"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/your-profile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="100" height="100"/>
-  </a>
-</p>
+<table>
+	<tr>
+		<td>
+			  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    			  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="100" height="100"/>
+  			  <br/><b> Linked in<b></b>
+  			  </a>
+                </td>
+			  <td>
+				  <a href="https://auth.geeksforgeeks.org/user/your-profile" target="_blank">
+					  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="100" height="100"/>
+					  <br/> <b> Linked In </b>
+				  </a>
+			  </td>
+			  </tr>				  
+</table>
