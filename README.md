@@ -22,7 +22,7 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
   A science exhibition project aimed at improving railway safety using advanced laser detection mechanisms.  
 
 - Object Detection via Drone
-  Leveraged OpenCV to create a drone-based object detection solution.  
+  Leveraged OpenCV to create a drone-ba0sed object detection solution.  
 
 - Agricultural Production Optimization Engine  
   Developed to provide optimized solutions for enhancing agricultural productivity.
@@ -84,6 +84,46 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
         <br/><b>Zapier</b>
       </a>
     </td>
+    <td align="center" width="140">
+      <a href="https://www.postman.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70" alt="Postman"/>
+        <br/><b>Postman</b>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.xero.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/xero/xero-icon.svg" width="70" height="70" alt="Xero"/>
+        <br/><b>Xero</b>
+      </a>
+    </td>
+    <!-- Kommunicate -->
+    <td align="center" width="140">
+      <a href="https://www.kommunicate.io/" target="_blank">
+        <img src="https://github.com/KaitouDev/github-assets/blob/main/logos/kommunicate-logo.png?raw=true" width="70" height="70" alt="Kommunicate Logo"/>
+        <br/><b>Kommunicate</b>
+      </a>
+    </td>
+    <!-- Copilot Studio -->
+    <td align="center" width="140">
+      <a href="https://visualstudio.microsoft.com/services/copilot/" target="_blank">
+        <img src="https://raw.githubusercontent.com/github/brand-guide/main/Brand-Guidelines/logo/codex-studio-dark.png" width="70" height="70" alt="Copilot Studio"/>
+        <br/><b>Copilot Studio</b>
+      </a>
+    </td>
+    <!-- Power Automate -->
+    <td align="center" width="140">
+      <a href="https://powerautomate.microsoft.com/" target="_blank">
+        <img src="https://www.google.com/imgres?q=power%20automate%20logo&imgurl=https%3A%2F%2Fwww.cloud9insight.com%2Fwp-content%2Fuploads%2F2021%2F05%2FGroup-1728.png.webp&imgrefurl=https%3A%2F%2Fwww.cloud9insight.com%2Fmicrosoft-power-platform-and-apps%2F&docid=hhTjk8Ok48RE5M&tbnid=XownmkTAOqAGdM&vet=12ahUKEwjTsvP33u-KAxV_ZSoJHQV5H_YQM3oECF0QAA..i&w=630&h=630&hcb=2&ved=2ahUKEwjTsvP33u-KAxV_ZSoJHQV5H_YQM3oECF0QAA" width="70" height="70" alt="Power Automate Logo"/>
+        <br/><b>Power Automate</b>
+      </a>
+    </td>
+    <!-- Power Apps -->
+    <td align="center" width="140">
+      <a href="https://powerapps.microsoft.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/microsoft/PowerPlatformIcons/main/PowerApps.svg" width="70" height="70" alt="Power Apps Logo"/>
+        <br/><b>Power Apps</b>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -96,11 +136,11 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
   			  <br/><b> Linked in<b></b>
   			  </a>
                 </td>
-			  <td align="Center" width="140">
-				  <a href="https://auth.geeksforgeeks.org/user/your-profile" target="_blank">
-					  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="100" height="100"/>
-					  <br/> <b> Linked In </b>
-				  </a>
-			  </td>
-			  </tr>				  
+	        <td align="Center" width="140">
+			<a href="https://auth.geeksforgeeks.org/user/your-profile" target="_blank">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="100" height="100"/>
+				<br/> <b> GitHub </b>
+			</a>
+		</td>
+	</tr>				  
 </table>
