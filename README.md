@@ -137,9 +137,9 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
   			  </a>
                 </td>
 	        <td align="Center" width="140">
-			<a href="https://auth.geeksforgeeks.org/user/your-profile" target="_blank">
+			<a href="https://www.geeksforgeeks.org/user/aayush2001/" target="_blank">
 				<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="100" height="100"/>
-				<br/> <b> GitHub </b>
+				<br/> <b> Geeks For Geeks </b>
 			</a>
 		</td>
 	</tr>				  
