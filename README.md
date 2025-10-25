@@ -1,17 +1,16 @@
 <h1 align="left">Hi 👋, I'm Aayush</h1>
 <h3 align="left">A tech enthusiast exploring Data Science, Python, and the MERN Stack</h3>
 
-
 <p align="left">
 I am passionate about leveraging <b>Data Science</b> to uncover meaningful insights and create impactful solutions.  
 With a strong foundation in <b>Python</b>, I continually experiment with innovative approaches to problem-solving.  
-I am also developing my skills in the <b> Mern Stack</b> working on modern web applications and APIs.  
+I am also developing my skills in the <b>MERN Stack</b>, working on modern web applications and APIs.  
 </p>
 
 ---
 
 <h3 align="left">✨ Featured Projects:</h3>
-- BRION - AI Assistant 
+- BRION - AI Assistant  
   A cutting-edge voice-controlled AI Assistant developed using the OpenAI API for ChatGPT.  
   It offers system access, enabling control over the mouse, keyboard, and other commands via voice.  
 
@@ -21,8 +20,8 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
 - Laser Railway Track Security System  
   A science exhibition project aimed at improving railway safety using advanced laser detection mechanisms.  
 
-- Object Detection via Drone
-  Leveraged OpenCV to create a drone-ba0sed object detection solution.  
+- Object Detection via Drone  
+  Leveraged OpenCV to create a drone-based object detection solution.  
 
 - Agricultural Production Optimization Engine  
   Developed to provide optimized solutions for enhancing agricultural productivity.
@@ -30,7 +29,6 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- ### Languages and Tools: -->
 
 <table>
   <tr>
@@ -58,26 +56,41 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
         <br/><b>Node.js</b>
       </a>
     </td>
+    <!-- React -->
+    <td align="center" width="140">
+      <a href="https://react.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="70" height="70" alt="React"/>
+        <br/><b>React</b>
+      </a>
+    </td>
+    <!-- Angular -->
+    <td align="center" width="140">
+      <a href="https://angular.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="70" height="70" alt="Angular"/>
+        <br/><b>Angular</b>
+      </a>
+    </td>
     <td align="center" width="140">
       <a href="https://www.oracle.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="70" height="70" alt="Oracle"/>
         <br/><b>Oracle</b>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="140">
       <a href="https://www.arduino.cc/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="70" height="70" alt="Arduino"/>
         <br/><b>Arduino</b>
       </a>
     </td>
-     <td align="center" width="140">
+    <td align="center" width="140">
       <a href="https://www.w3schools.com/cs/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="70" height="70" alt="C#"/>
         <br/><b>CSharp</b>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="140">
       <a href="https://zapier.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="70" height="70" alt="Zapier"/>
@@ -110,6 +123,9 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
         <br/><b>Copilot Studio</b>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <!-- Power Automate -->
     <td align="center" width="140">
       <a href="https://powerautomate.microsoft.com/" target="_blank">
@@ -129,18 +145,18 @@ I am also developing my skills in the <b> Mern Stack</b> working on modern web a
 
 <h3 align="left">My Profiles.......</h3>
 <table>
-	<tr>
-		<td align="center" width="140">
-			  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    			  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="100" height="100"/>
-  			  <br/><b> Linked in<b></b>
-  			  </a>
-                </td>
-	        <td align="Center" width="140">
-			<a href="https://www.geeksforgeeks.org/user/aayush2001/" target="_blank">
-				<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="100" height="100"/>
-				<br/> <b> Geeks For Geeks </b>
-			</a>
-		</td>
-	</tr>				  
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="100" height="100"/>
+        <br/><b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="Center" width="140">
+      <a href="https://www.geeksforgeeks.org/user/aayush2001/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="100" height="100"/>
+        <br/><b>Geeks For Geeks</b>
+      </a>
+    </td>
+  </tr>
 </table>
