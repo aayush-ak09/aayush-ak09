@@ -70,15 +70,22 @@ I am also developing my skills in the <b>MERN Stack</b>, working on modern web a
         <br/><b>Angular</b>
       </a>
     </td>
+    <!-- ASP.NET -->
+    <td align="center" width="140">
+      <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.svg" width="70" height="70" alt="ASP.NET"/>
+        <br/><b>ASP.NET</b>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
     <td align="center" width="140">
       <a href="https://www.oracle.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="70" height="70" alt="Oracle"/>
         <br/><b>Oracle</b>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="140">
       <a href="https://www.arduino.cc/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="70" height="70" alt="Arduino"/>
@@ -116,6 +123,9 @@ I am also developing my skills in the <b>MERN Stack</b>, working on modern web a
         <br/><b>Kommunicate</b>
       </a>
     </td>
+  </tr>
+
+  <tr>
     <!-- Copilot Studio -->
     <td align="center" width="140">
       <a href="https://visualstudio.microsoft.com/services/copilot/" target="_blank">
@@ -123,9 +133,6 @@ I am also developing my skills in the <b>MERN Stack</b>, working on modern web a
         <br/><b>Copilot Studio</b>
       </a>
     </td>
-  </tr>
-
-  <tr>
     <!-- Power Automate -->
     <td align="center" width="140">
       <a href="https://powerautomate.microsoft.com/" target="_blank">
