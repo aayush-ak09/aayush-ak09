@@ -139,14 +139,7 @@ I am also developing my skills in the <b>MERN Stack</b>, working on modern web a
         <img src="./images/download.jpeg" width="70" height="70" alt="Power Automate Logo"/>
         <br/><b>Power Automate</b>
       </a>
-    </td>
-    <!-- Power Apps -->
-    <td align="center" width="140">
-      <a href="https://powerapps.microsoft.com/" target="_blank">
-        <img src="images/powerApps.jpeg" width="70" height="70" alt="Power Apps Logo"/>
-        <br/><b>Power Apps</b>
-      </a>
-    </td>
+    </td> 
   </tr>
 </table>
 
