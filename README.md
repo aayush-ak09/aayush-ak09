@@ -126,13 +126,7 @@ I am also developing my skills in the <b>MERN Stack</b>, working on modern web a
   </tr>
 
   <tr>
-    <!-- Copilot Studio -->
-    <td align="center" width="140">
-      <a href="https://visualstudio.microsoft.com/services/copilot/" target="_blank">
-        <img src="./images/copilotStudio.jpeg" width="70" height="70" alt="Copilot Studio"/>
-        <br/><b>Copilot Studio</b>
-      </a>
-    </td>
+  
   </tr>
 </table>
 
