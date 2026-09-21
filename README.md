@@ -133,13 +133,6 @@ I am also developing my skills in the <b>MERN Stack</b>, working on modern web a
         <br/><b>Copilot Studio</b>
       </a>
     </td>
-    <!-- Power Automate -->
-    <td align="center" width="140">
-      <a href="https://powerautomate.microsoft.com/" target="_blank">
-        <img src="./images/download.jpeg" width="70" height="70" alt="Power Automate Logo"/>
-        <br/><b>Power Automate</b>
-      </a>
-    </td> 
   </tr>
 </table>
 
